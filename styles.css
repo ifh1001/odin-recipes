@@ -1,0 +1,14 @@
+.title {
+    color: green;
+    background-color: black;
+    font-size: 42px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Gill Sans','Trebuchet MS', sans-serif;
+}
+
+.list-recipes {
+    color: red;
+    font-size: 36px;
+    font-weight: bold;
+}
