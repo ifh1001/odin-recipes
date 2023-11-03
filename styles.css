@@ -1,14 +1,23 @@
+.card {
+    background-color: rgb(135, 226, 226);    
+}
+
 .title {
-    color: green;
+    color: red;
     background-color: black;
     font-size: 42px;
     text-decoration: underline;
     text-align: center;
     font-family: 'Gill Sans','Trebuchet MS', sans-serif;
+    padding: 32px;
+    margin: 16px 64px;
+    
 }
 
 .list-recipes {
     color: red;
     font-size: 36px;
     font-weight: bold;
+    margin-left: 100px;
+    margin-top: 32;
 }
